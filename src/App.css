@@ -1,0 +1,26 @@
+a {
+  padding: 10px;
+}
+
+a,
+a:visited {
+  color: blue;
+}
+
+a.active {
+  color: red;
+}
+.posts ul {
+  list-style: none;
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.posts ul li {
+  padding: 10px;
+}
+
+.posts a {
+  text-decoration: none;
+}
